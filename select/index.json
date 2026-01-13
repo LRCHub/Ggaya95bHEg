@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "グレイファインダー",
+  "base_artist": "奈良瀬",
+  "createdAt": "2026-01-13T13:42:15.289901Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グレイファインダー",
+      "artist": "奈良瀬",
+      "has_synced": false,
+      "path": "select/pl_01_グレイファインダー_奈良瀬.txt"
+    }
+  ]
+}
